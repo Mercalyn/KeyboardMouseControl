@@ -1,14 +1,16 @@
 # KeyboardMouseControl
 AutoHotkey script that lets a person control mouse with arrow keys. 
 
-numpad * turn on
-numpad / turn off
+-numpad * turn on
 
+-numpad / turn off
 
-arrow keys: 1 pixel movement
-shift arrow keys: 50 pixel movement
+-arrow keys: precision pixel movement
 
-hold down arrows for repeated effect
+-shift arrow keys: higher pixel movement
 
-numpad 0: left click
-numpad dot: right click
+-hold down arrows for repeated effect
+
+-numpad 0: left click
+
+-numpad dot: right click
